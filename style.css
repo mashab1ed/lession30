@@ -1,0 +1,121 @@
+
+
+body {
+  padding: 30px;
+  background-color: #dc9572;
+}
+
+/*.block{
+margin: 0px 0px 20px 0px;}
+.block:hover {
+  background: yellow;
+}
+
+
+
+.block p{
+  font-size: 18px;
+line-height: 25px;
+margin: 0px 0px 20px 0px;
+
+}
+
+
+.link:visited {
+  color: purple;
+}
+
+
+
+.link{
+  color: coral;
+}
+.link:hover {
+  text-decoration: underline;
+color: blue;
+}
+
+
+
+
+
+
+
+
+
+.textinput{
+
+border: 1px solid #567;
+height: 50px;
+padding: 0px 15px;
+font-size: 18px;
+font-weight: 300;
+margin-bottom: 10px;
+}
+.textbutton{
+
+display: block;
+width: 300px;
+height: 50px;
+background-color: lightgreen;
+color: #fff;
+text-transform: uppercase;
+margin-bottom: 30px;
+}
+.list{
+
+
+
+
+}
+
+.list li {
+font-size: 18px;
+margin-bottom: 15px;
+
+}
+
+
+
+.link:active{
+color: lightcoral;
+
+
+
+}
+.textinput:focus {
+box-shadow: 0px 0px 10px  rgba(0,0,0,0.2);
+
+
+}
+
+
+/*.list li:first-child{
+color: rgb(8, 100, 69);
+
+}
+
+
+
+.list li:last-child{
+  color: violet
+  
+  }*/
+  
+/*.list li:nth-child(odd){
+ text-transform: uppercase;
+}*/
+.menu {
+font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight: 700;
+text-align: center;
+line-height: 50px;
+color: blue;
+}
+
+
+
+.menu__item__menu__item--1:hover {
+  color: red;
+}
+
